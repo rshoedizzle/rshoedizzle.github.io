@@ -22,6 +22,11 @@
 - type: linkedin
   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
   url:  'https://www.linkedin.com/in/ryan-schumacher1'                  # Fill with your Linkedin homepage
+
+- type: website
+  icon: 'fa-solid fa-link' # Update this with the correct path to your custom icon
+  url: 'https://theryanschumacher.com/'
+
 #
 # - type: stack-overflow
 #   icon: 'fab fa-stack-overflow'

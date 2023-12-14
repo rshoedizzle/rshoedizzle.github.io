@@ -14,6 +14,10 @@ platforms:
     icon: "fab fa-telegram"
     link: "https://t.me/share/url?url=URL&text=TITLE"
 
+  - type: Website
+    icon: 'fa-solid fa-link' # Update this with the correct path to your custom icon
+    link: "https://theryanschumacher.com/"
+
   # Uncomment below if you need to.
   #
   # - type: Linkedin
